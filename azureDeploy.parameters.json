@@ -3,19 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appName": {
-            "value": "YourAppName"
+            "value": "splfuncapp3"
         },
         "repoURL": {
-            "value": "https://github.com/YourName/yourRepo.git"
+            "value": "https://github.com/rickrain/AzureFunctionDeployment.git"
         },
         "branch": {
-            "value": "yourBranch"
+            "value": "SplunkVS"
         },
         "appSetting1": {
             "value": "someSettingValue"
         },
         "appSetting2": {
             "value": "someSettingValueToo"
+        },
+        "githubRepoURL": {
+            "value": "https://github.com/rickrain/AzureFunctionDeployment/tree/SplunkVS"
         }
     }
 }
